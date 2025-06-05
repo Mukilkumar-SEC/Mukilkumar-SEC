@@ -1,84 +1,88 @@
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Mukil+Kumar+👋;AI+%7C+ML+%7C+Web+Dev+Enthusiast;Always+learning+and+building+💡" />
-</p>
 
-<h1 align="center">🌟 Welcome to My GitHub 🌟</h1>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
-</p>
-
-<h3 align="center">Aspiring AI/ML Developer | Web Developer | Data Analyst</h3>
+<!-- Profile Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E7FC0&height=200&section=header&text=Mukil%20Kumar%20V&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</div>
 
 <p align="center">
-  <a href="mailto:vmukilkumar@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/mukil-kumar-v-331a1b276/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/Mukilkumar-SEC"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://x.com/V_MukilKumar"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/Mukilkumarv/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E7FC0&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Aspiring+AI+%2F+ML+Developer+%7C+Web+Dev+%7C+Data+Analyst;Passionate+about+Building+Practical+AI+Solutions" />
 </p>
 
 ---
 
-## 🔍 About Me
+### 🙋‍♂️ About Me
 
-- 🎓 B.Tech AI & Data Science @ Saveetha Engineering College  
-- 🤖 Passionate about building with Machine Learning, Transformers, and real-world AI solutions  
-- 💻 Tech Stack: Python, Java, Web, MySQL, MongoDB, Power BI  
-- 🌐 [Live Projects](https://vinithadhanajeyan.github.io/Movie_website/), [Emotion Detector](https://github.com/Mukilkumar-SEC/Emotion-Detection)
+```yaml
+Name: Mukil Kumar V
+Location: Chennai, India
+Course: B.Tech in Artificial Intelligence and Data Science (2022–2026)
+Interests: Machine Learning | Web Development | Music | Traveling
+```
 
----
-
-## 🚀 Projects
-
-### 🎵 [Emotion-Based Music Recommender](https://github.com/Mukilkumar-SEC/Emotion-Detection)
-> Recommends songs based on real-time facial emotion detection.
-
-### 🎬 [Movie Website](https://vinithadhanajeyan.github.io/Movie_website/)
-> Frontend movie card layout using only HTML, CSS, and JS.
+- 💡 Built an [Emotion-Based Music Recommender](https://github.com/Mukilkumar-SEC/Emotion-Detection) using **TensorFlow & OpenCV**
+- 🌐 Created a [Responsive Movie Website](https://vinithadhanajeyan.github.io/Movie_website/) with HTML, CSS, and JavaScript
+- 📊 Interned as a **Data Analyst**, achieving 90% accuracy in predictive modeling
+- 🎯 Actively preparing for **AI/ML internships** focused on Transformers and LLMs
 
 ---
 
-## 🧰 Skills
+### 🔧 Tech Stack
 
-| Language        | Tools & Tech              | Data & ML             |
-|-----------------|---------------------------|------------------------|
-| Python, Java, C | HTML, CSS, JavaScript     | Pandas, NumPy, TensorFlow, OpenCV |
-| MySQL, MongoDB  | Power BI, Jupyter, VS Code| Scikit-learn, EDA     |
-
----
-
-## 📜 Certifications
-
-- 📘 [IBM Datathon Certificate](https://drive.google.com/file/d/1IkRMqdIzJvZmZr9uAAtyhmWw6GBPjHXp/view?usp=sharing)  
-- 🌐 [Intro to IoT – NPTEL](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs35/Course/NPTEL24CS35S55880058430800071.pdf)  
-- 📊 [EIBS Data Analyst Internship](https://eibsglobal.com/)  
-- 📁 [View All](https://drive.google.com/drive/folders/1_hQ8g-51YMCEX2Hi_OTUrygzr3WQ92y_?usp=sharing)
+| Languages       | Tools & Frameworks     | Data & ML            | Others             |
+|----------------|------------------------|----------------------|--------------------|
+| Python, Java, C | HTML, CSS, JavaScript  | TensorFlow, Pandas   | Git, Power BI      |
+| SQL, MongoDB    | OpenCV, VS Code        | NumPy, Scikit-learn  | Jupyter Notebook   |
 
 ---
 
-## 📊 GitHub Stats
+### 🛠️ Tools & IDEs
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukilkumar-SEC&show_icons=true&theme=midnight-purple" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Mukilkumar-SEC&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukilkumar-SEC&layout=compact&theme=midnight-purple" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,c,html,css,js,mongodb,mysql,git,github,opencv,tensorflow,vscode,powershell" />
 </p>
 
 ---
 
-## ⚡ Fun Facts
+### 🧪 Projects
 
-- 🎧 Music fuels my creativity
-- 🌏 Love exploring tech and traveling
-- 🤝 Always open to collaboration!
+🚀 **[Emotion-Based Music Recommendation](https://github.com/Mukilkumar-SEC/Emotion-Detection)**  
+> Facial emotion detection to recommend mood-based music  
+Tools: Python, TensorFlow, OpenCV
+
+🌐 **[Movie Website](https://vinithadhanajeyan.github.io/Movie_website/)**  
+> Fully responsive static website using HTML/CSS/JS  
+Features: Movie cards, clean UI, animations
 
 ---
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-</p>
+### 📜 Certifications
+
+- 🎓 [IBM Datathon Certificate](https://drive.google.com/file/d/1IkRMqdIzJvZmZr9uAAtyhmWw6GBPjHXp/view)
+- 🌐 [NPTEL – Intro to IoT](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs35/Course/NPTEL24CS35S55880058430800071.pdf)
+- 🧠 [Data Analyst Internship @ EIBS](https://eibsglobal.com/)
+- 📂 [View All Certificates](https://drive.google.com/drive/folders/1_hQ8g-51YMCEX2Hi_OTUrygzr3WQ92y_)
+
+---
+
+### 📊 GitHub Analytics
 
 <p align="center">
-  <i>“Code is like humor. When you have to explain it, it’s bad.” – Cory House</i>
+  <img src="https://github-readme-stats.vercel.app/api?username=Mukilkumar-SEC&theme=tokyonight&show_icons=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukilkumar-SEC&layout=compact&theme=tokyonight" height="180" />
 </p>
+
+---
+
+### 📫 Connect with Me
+
+- 🔗 [LinkedIn](https://www.linkedin.com/in/mukil-kumar-v-331a1b276/)
+- 💻 [GitHub](https://github.com/Mukilkumar-SEC)
+- 🐦 [Twitter](https://x.com/V_MukilKumar)
+- 📧 Email: [vmukilkumar@gmail.com](mailto:vmukilkumar@gmail.com)
+- 👨‍💻 [LeetCode](https://leetcode.com/u/Mukilkumarv/)
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E7FC0&height=200&section=footer" />
+</div>
