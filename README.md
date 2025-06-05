@@ -20,8 +20,8 @@ Chennai, India | B.Tech in AI & Data Science (2022–2026)
 ### [🎵 Emotion-Based Music Recommendation](https://github.com/Mukilkumar-SEC/Emotion-Detection)
 Facial emotion recognition system that recommends music based on user mood.
 
-### [🎬 Movie Website](https://vinithadhanajeyan.github.io/Movie_website/)
-Responsive website built with HTML, CSS, and JavaScript.
+### [🖼️ Image Search App](https://github.com/Mukilkumar-SEC/Image-search-app)
+A simple image search engine using the Unsplash API. Built with HTML, CSS, and JavaScript.
 
 ---
 
