@@ -27,8 +27,7 @@ A simple image search engine using the Unsplash API. Built with HTML, CSS, and J
 
 ## 📜 Certifications
 
-- [IBM Datathon Certificate](https://drive.google.com/file/d/1IkRMqdIzJvZmZr9uAAtyhmWw6GBPjHXp/view)
-- [NPTEL Intro to IoT](https://archive.nptel.ac.in/content/noc/NOC24/SEM1/Ecertificates/106/noc24-cs35/Course/NPTEL24CS35S55880058430800071.pdf)
+- [Click Here](https://drive.google.com/drive/folders/1_hQ8g-51YMCEX2Hi_OTUrygzr3WQ92y_?usp=sharing)
 
 ---
 
