@@ -5,10 +5,11 @@
 💡 Aspiring AI/ML Developer | Web Developer | Data Analyst  
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Mukilkumar-SEC&style=flat-square)](https://github.com/Mukilkumar-SEC)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukilkumar-SEC&layout=compact)
+
 ## 📊 LeetCode Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/Mukilkumarv?theme=dark&font=Baloo+Bhai&ext=contest)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mukilkumar-SEC&layout=compact)
 
 ---
 
